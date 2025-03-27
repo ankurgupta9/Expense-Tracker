@@ -10,3 +10,7 @@ Steps to Run this Project:
 8. Start Apache and MySQL using the XAMPP Control Panel.
 9. Open your browser and navigate to: http://localhost/expense_tracker/
 10. Register a new account or log in using your existing credentials.
+
+![image](https://github.com/user-attachments/assets/07dc989e-b57c-47ea-ad1d-6dfb3d7d58bc)
+![image](https://github.com/user-attachments/assets/416cc85b-c844-4595-a114-a26c1719e0ee)
+
